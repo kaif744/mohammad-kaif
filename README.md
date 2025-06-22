@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohammad Kaif 👋</h1>
 
 <p align="center">
-🚀 B.Tech CSE @ KIIT | 💻 Full-Stack Web Dev & UI/UX Designer | 🌐 API Fellow @ Keploy | 📚 Lifelong Learner  
+🚀 B.Tech CSE @ KIIT,Bhubaneswar | 💻 Full-Stack Web Dev & UI/UX Designer | 🌐 API Fellow @ Keploy | 📚 Lifelong Learner  
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 Final-year Computer Science student at KIIT, CGPA: 8.2
 - 🧑‍🎨 Freelance UI/UX Designer — improved conversions by 20% using Figma & responsive design
-- 💡 Passionate about building full-stack products with Java, React, Spring Boot, and MongoDB
+- 💡 Passionate about building full-stack products with php-sql, React, Spring Boot, and MongoDB
 - 🧠 Learning API design, cloud deployment, and advanced system architecture
 - 🧑‍🏫 Organized & mentored in tech bootcamps/workshops on Git, UI/UX, and web deployment
 - 🌍 Open to freelance, collaboration, and internship opportunities
@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `C/C++` `SQL` `JavaScript`
+`Java` `php` `Python` `C/C++` `SQL` `JavaScript`
 
 **Frontend:**  
 `React.js` `Tailwind CSS` `Redux` `Shadcn UI` `Figma`
