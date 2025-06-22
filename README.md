@@ -1,40 +1,76 @@
-<h1 align="center">Hi there, I'm Kaif Akhter 👋</h1>
+<h1 align="center">Hi there, I'm Mohammad Kaif 👋</h1>
 
 <p align="center">
-  🚀 A Passionate UI/UX Designer & Tech Enthusiast<br>
-  🎯 Focused on clean design, trading tools, and creative tech<br>
-  🛠️ Learning Web Dev, WordPress, and After Effects for content creation
+🚀 B.Tech CSE @ KIIT | 💻 Full-Stack Web Dev & UI/UX Designer | 🌐 API Fellow @ Keploy | 📚 Lifelong Learner  
 </p>
 
 ---
 
-### 🔍 About Me
+### 👨‍💻 About Me
 
-- 🎓 Final Year Student | Freelancer in UI/UX Design (Figma, Wireframing)
-- 🛠️ Currently working on reels + trading content using After Effects and Google Veo
-- 🔗 Exploring WordPress to build SEO-ready portfolios
-- 💡 Open to collaboration in design, frontend, or SaaS ideas
+- 🎓 Final-year Computer Science student at KIIT, CGPA: 8.2
+- 🧑‍🎨 Freelance UI/UX Designer — improved conversions by 20% using Figma & responsive design
+- 💡 Passionate about building full-stack products with Java, React, Spring Boot, and MongoDB
+- 🧠 Learning API design, cloud deployment, and advanced system architecture
+- 🧑‍🏫 Organized & mentored in tech bootcamps/workshops on Git, UI/UX, and web deployment
+- 🌍 Open to freelance, collaboration, and internship opportunities
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-**Design:**  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white)
+**Languages:**  
+`Java` `Python` `C/C++` `SQL` `JavaScript`
 
 **Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+`React.js` `Tailwind CSS` `Redux` `Shadcn UI` `Figma`
 
-**Tools:**  
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat&logo=WordPress&logoColor=white)
+**Backend & DB:**  
+`Node.js` `Express.js` `MongoDB` `REST APIs` `Spring Boot`
+
+**Libraries & Tools:**  
+`React Hook Form` `Zod` `Zustand` `Chart.js` `Matplotlib` `Seaborn` `Pandas` `NumPy`  
+`Git` `Postman` `VS Code` `Firebase` `Vercel`
+
+---
+
+### 🚀 Projects
+
+#### 🗓️ **EventMaven** – Full-Stack Event Management App  
+`Next.js 14` `TypeScript` `MongoDB` `Tailwind` `Clerk` `Stripe`  
+- Role-based user access (Admin, Sponsor, Attendee) with secure authentication  
+- Real-time budget dashboards & sponsor engagement tools  
+- Deployed on Vercel with CI/CD integration  
+🔗 [GitHub Link](https://github.com/kaif744)
 
 ---
 
-### 📫 Connect with Me
+### 🏆 Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+- 🏅 Selected for **Keploy API Fellowship** – Top 1,000 out of 18,500+ applicants worldwide  
+- 💻 Active participant in **AICTE Full-Stack Web Dev Internship** using Java & React  
+- 🌐 Cleared **KRS Tech Society Web Dev Program** (Top 50/400+) – real-world UI + API development  
+- 🧑‍🏫 Led a 2-day bootcamp at KIIT for 30+ students on Git, GitHub & Deployment  
+- 👨‍🎓 Mentored juniors on UI/UX basics & Figma workflows
 
 ---
+
+### 📜 Certifications
+
+- `Corporate Governance – Coursera (2025)`
+- `Business for Good – London Business School (Coursera)`
+- `Web Development Certification – KRS Tech (2023)`
+
+---
+
+### 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kaif-abc)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhterkaif10@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaif744)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🌟  
+</p>
